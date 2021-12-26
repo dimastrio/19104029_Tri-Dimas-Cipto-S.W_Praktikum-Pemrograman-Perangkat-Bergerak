@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="btnProdi">Bawa Data ke Activity Lain</string>
+    <string name="prodiSaya">Prodi Saya</string>
+    <string name="btnBukaBrowser">Buka Browser</string>
+    <string name="btnBukaKamera">Buka Kamera</string>
+    <string name="inputNomorHp">Masukkan Nomor HP</string>
+    <string name="btnBukaTelepon">Buka Telepon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="firstFragment">Fragment Pertama</string>
+    <string name="inputName">Masukkan Nama</string>
+    <string name="inputNim">Masukkan Nim</string>
+    <string name="btnsecondFragment">Fragment Kedua</string>
+    <string name="secondFragment">Fragment Kedua</string>
+    <string name="btnBackHome">Kembali</string>
+</resources>
