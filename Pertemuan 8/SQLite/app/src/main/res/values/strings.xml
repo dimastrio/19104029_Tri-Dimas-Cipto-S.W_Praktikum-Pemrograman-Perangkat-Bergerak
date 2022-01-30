@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="judul">Judul</string>
+    <string name="kategori">Kategori</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="hapus">Hapus</string>
+    <string name="simpan">Simpan</string>
+</resources>
